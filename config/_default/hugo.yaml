@@ -1,0 +1,8 @@
+baseURL: http://rebornix0.com
+languageCode: en
+params:
+  contact:
+    email: 1980250928@qq.com
+theme: congo
+enableEmoji: true
+autoSwitchAppearance: true

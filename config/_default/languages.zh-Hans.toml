@@ -1,0 +1,26 @@
+languageCode = "zh-Hans"
+languageName = "简体中文"
+languageDirection = "ltr"
+weight = 1
+
+title = "Rebornix"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Rebornix"
+  image = "img/avatar.jpg"
+  headline = "欢迎！"
+  bio = "置之死地而后生"
+  links = [
+    { email = "1980250928@qq.com" },
+    { github = "https://github.com/Rebornix-zero" },
+    # { facebook = "https://facebook.com/username" },
+    # { gitlab = "https://gitlab.com/username" },
+    # { google = "https://www.google.com/" },
+  ]
+

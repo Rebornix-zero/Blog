@@ -1,4 +1,5 @@
 #!/bin/bash
+### rebuild static website page
 
 rm -rf ./public
-hugo
+hugo --config ./config/_default/hugo.yaml 
